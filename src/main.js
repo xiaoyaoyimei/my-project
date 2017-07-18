@@ -1,5 +1,4 @@
 import Vue from 'vue'
-<<<<<<< HEAD
 import App from './App'
 import router from './router'
 import axios from 'axios';

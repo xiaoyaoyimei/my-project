@@ -4,14 +4,6 @@
   <router-view></router-view>
 </template>
 <script>
-<<<<<<< HEAD
-// import router from "@/router/index.js"
-export default {
-  name: 'app',
-  // router:router
-}
-</script>
-=======
   export default {
     data () {
       return {}
@@ -31,6 +23,4 @@ export default {
       }
     }
   }
->>>>>>> 8637f76d5e2df444590460b0877e65fecf5b9d1a
-
 </script>
