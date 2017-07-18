@@ -6,8 +6,10 @@
 </template>
 
 <script>
+// import router from "@/router/index.js"
 export default {
-  name: 'app'
+  name: 'app',
+  // router:router
 }
 </script>
 
